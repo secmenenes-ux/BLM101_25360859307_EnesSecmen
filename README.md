@@ -10,7 +10,7 @@ Bu proje, **BLM101 - Bilgisayar Mühendisliğine Giriş** dersi final ödevi kap
 
 ## Proje Tanıtım Videosu
 Projenin çalışma mantığını ve kod anlatımını içeren YouTube videosuna aşağıdaki linkten ulaşabilirsiniz:
-[Buraya YouTube Video Linkini Yapıştır]
+[Buraya YouTube Video Linki]
 
 ##  Proje İçeriği ve Özellikler
 Bu program iki ana modülden oluşmaktadır:
