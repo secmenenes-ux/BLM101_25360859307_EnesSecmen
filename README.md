@@ -3,8 +3,8 @@
 Bu proje, **BLM101 - Bilgisayar Mühendisliğine Giriş** dersi final ödevi kapsamında hazırlanmıştır. Python dili kullanılarak temel mantık kapılarının simülasyonunu ve karmaşık mantık ifadelerinin doğruluk tablolarını oluşturmayı amaçlar.
 
 ## Öğrenci Bilgileri
-* **Ad Soyad:** [Enes Seçmen]
-* **Öğrenci No:** [25360859307]
+* **Ad Soyad:** Enes Seçmen
+* **Öğrenci No:** 25360859307
 * **Bölüm:** Bilgisayar Mühendisliği
 * **Ders:** BLM101
 
