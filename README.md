@@ -23,7 +23,7 @@ Kullanıcıdan iki adet binary giriş (0 veya 1) ve bir mantık kapısı türü 
 * **Desteklenen Kapılar:** AND, OR, XOR.
 
 ### 2. 3 Değişkenli Doğruluk Tablosu Oluşturucu
-Proje isterlerinde belirtildiği üzere, 3 değişkenli (A, B, C) mantıksal ifadelerin tüm olasılıklarını hesaplar.
+Projede belirtildiği üzere, 3 değişkenli (A, B, C) mantıksal ifadelerin tüm olasılıklarını hesaplar.
 * **Özelleştirilebilir İfade:** Kullanıcı `A and (B or C)` gibi karmaşık ifadeler girebilir.
 * **Desteklenen Operatörler:** `and`, `or`, `not` ve parantez `()` işlemleri.
 * Program, A, B ve C'nin tüm kombinasyonları (000'dan 111'e kadar) için döngü kurar ve her adımda sonucu tablo halinde listeler.
