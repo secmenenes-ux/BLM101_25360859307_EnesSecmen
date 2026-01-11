@@ -28,7 +28,7 @@ Proje isterlerinde belirtildiği üzere, 3 değişkenli (A, B, C) mantıksal ifa
 * **Desteklenen Operatörler:** `and`, `or`, `not` ve parantez `()` işlemleri.
 * Program, A, B ve C'nin tüm kombinasyonları (000'dan 111'e kadar) için döngü kurar ve her adımda sonucu tablo halinde listeler.
 
-###Proje Dokümantasyonu
+### 3. Proje Dokümantasyonu
 Kullanılan Kütüphaneler Projemde Python'un kendi içerisinde gelen standart kütüphaneleri dışında herhangi bir ekstra kütüphane indirmedim.
 **itertools**: Bu kütüphaneyi doğruluk tablosu oluştururken kullandım.Doğruluk tablosu kısmında 3 değişken olduğu için toplamda 8 farklı ihtimal oluşuyordu. Bunları elimle tek tek yazmak yerine itertools.product fonksiyonu ile otomatik ürettirdim.
 
