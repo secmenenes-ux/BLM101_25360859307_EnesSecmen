@@ -5,7 +5,7 @@ Bu proje, **BLM101 - Bilgisayar Mühendisliğine Giriş** dersi final ödevi kap
 ## Öğrenci Bilgileri
 * **Ad Soyad:** Enes Seçmen
 * **Öğrenci No:** 25360859307
-* **Proje Konusu: : Kullanıcının temel mantık kapılarını kullanarak basit bir devre tasarlamasını
+* **Proje Konusu:** Kullanıcının temel mantık kapılarını kullanarak basit bir devre tasarlamasını
 (veya metin olarak girmesini) sağlayan program.
 * **Bölüm:** Bilgisayar Mühendisliği
 * **Ders:** BLM101
