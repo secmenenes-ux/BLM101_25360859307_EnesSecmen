@@ -12,7 +12,7 @@ Bu proje, **BLM101 - Bilgisayar Mühendisliğine Giriş** dersi final ödevi kap
 
 ## Proje Tanıtım Videosu
 Projenin çalışma mantığını ve kod anlatımını içeren YouTube videosuna aşağıdaki linkten ulaşabilirsiniz:
-[Buraya YouTube Video Linki]
+https://www.youtube.com/watch?v=bvP9FBGR6Yg
 
 ## Proje Dokümantasyonu
 Projemde Python'un kendi içerisinde gelen standart kütüphaneleri dışında herhangi bir ekstra kütüphane indirmedim.
